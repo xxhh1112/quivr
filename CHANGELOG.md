@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.0.114 (2023-11-15)
+
+## What's Changed
+* feat: add api brain creation frontend by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1631
+* refactor: add modules folder by @gozineb in https://github.com/StanGirard/quivr/pull/1633
+
+
+**Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.113...v0.0.114
+
 ## 0.0.113 (2023-11-14)
 
 ## What's Changed
